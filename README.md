@@ -1,4 +1,7 @@
 # flood-analysis
+
+<img src="https://i.imgur.com/Tko46mp.png" width="1000" style="display:block; margin:auto" />
+
 Jupyter Notebook for SAR flood analysis in Pakistan with Google Earth Engine and Python API
 
 In mid-June 2022, Pakistan began experiencing unusually heavy rainfall. Within weeks, the relentless downpours had led to widespread flooding across significant parts of the country. Pakistan's climate is characterized by a distinct monsoon season, with the majority of its annual rainfall, approximately 70-75%, occurring between June and September. However, the intensity of these monsoon rains varies annually, with some years witnessing far higher rainfall than usual.
@@ -9,4 +12,4 @@ The catastrophic floods resulted in a tragic loss of life and widespread devasta
 
 Synthetic Aperture Radar (SAR) offers several significant advantages for flood mapping, making it a highly effective tool in disaster management and environmental monitoring. Unlike optical sensors, SAR can penetrate through clouds and is not affected by weather conditions. This feature is particularly crucial for flood mapping, as heavy cloud cover often accompanies flooding events. Additionally, SAR systems can operate effectively both day and night, ensuring continuous monitoring of flood situations. Lastly, SAR is particularly sensitive to smooth surfaces like water, which appear dark on SAR images. This contrast makes it easier to differentiate between flooded and non-flooded areas, enhancing the accuracy of flood extent mapping.
 
-The following tutorial is based upon a [UN-SPIDER Google Earth Engine (GEE) JavaScript Script](https://www.un-spider.org/advisory-support/recommended-practices/recommended-practice-google-earth-engine-flood-mapping/step-by-step) for flood mapping. It has been translated to Python, heavily adapted, and expanded. 
+This tutorial is based upon a [UN-SPIDER Google Earth Engine (GEE) JavaScript Script](https://www.un-spider.org/advisory-support/recommended-practices/recommended-practice-google-earth-engine-flood-mapping/step-by-step) for flood mapping. It has been translated to Python, heavily adapted, and expanded. 

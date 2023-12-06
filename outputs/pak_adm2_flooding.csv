@@ -1,0 +1,43 @@
+ADM2_EN,ADM2_PCODE,ADM1_EN,ADM1_PCODE,flood_extent_km2,flood_extent_ha,exposed_population,exposed_cropland_km2,exposed_cropland_ha,exposed_urban_km2,exposed_urban_ha,ADM0_EN,ADM0_PCODE
+Dera Bugti,PK204,Balochistan,PK2,6,645,5,3,277,0,0,Pakistan,PK
+Jaffarabad,PK207,Balochistan,PK2,586,58596,15779,511,51084,0,20,Pakistan,PK
+Jhal Magsi,PK208,Balochistan,PK2,247,24654,1218,145,14494,0,0,Pakistan,PK
+Kachhi,PK209,Balochistan,PK2,13,1312,239,0,49,0,0,Pakistan,PK
+Kalat,PK210,Balochistan,PK2,0,0,0,0,0,0,0,Pakistan,PK
+Khuzdar,PK213,Balochistan,PK2,2,177,62,0,3,0,0,Pakistan,PK
+Kohlu,PK216,Balochistan,PK2,0,0,0,0,0,0,0,Pakistan,PK
+Lasbela,PK217,Balochistan,PK2,10,1035,1203,1,80,0,15,Pakistan,PK
+Lehri,PK218,Balochistan,PK2,75,7499,75,8,769,0,0,Pakistan,PK
+Nasirabad,PK222,Balochistan,PK2,281,28073,6048,213,21265,0,8,Pakistan,PK
+Sohbatpur,PK229,Balochistan,PK2,178,17840,5794,134,13431,0,11,Pakistan,PK
+Rahim Yar Khan,PK628,Punjab,PK6,49,4851,18403,13,1341,1,102,Pakistan,PK
+Rajanpur,PK629,Punjab,PK6,84,8358,4523,32,3159,0,13,Pakistan,PK
+Badin,PK701,Sindh,PK7,553,55287,9680,311,31059,0,21,Pakistan,PK
+Central Karachi,PK702,Sindh,PK7,1,84,31728,0,2,1,101,Pakistan,PK
+Dadu,PK703,Sindh,PK7,1287,128748,154688,993,99259,1,102,Pakistan,PK
+East Karachi,PK704,Sindh,PK7,2,160,31455,0,1,1,91,Pakistan,PK
+Ghotki,PK705,Sindh,PK7,150,15004,4778,76,7649,0,43,Pakistan,PK
+Hyderabad,PK706,Sindh,PK7,97,9737,109417,50,5001,3,254,Pakistan,PK
+Jacobabad,PK707,Sindh,PK7,1039,103874,73320,889,88879,0,45,Pakistan,PK
+Jamshoro,PK708,Sindh,PK7,628,62822,55621,343,34343,2,152,Pakistan,PK
+Kambar Shahdad Kot,PK709,Sindh,PK7,1992,199201,99297,1476,147600,1,80,Pakistan,PK
+Kashmore,PK710,Sindh,PK7,277,27681,15721,178,17776,0,37,Pakistan,PK
+Khairpur,PK711,Sindh,PK7,409,40888,21909,223,22330,0,26,Pakistan,PK
+Korangi Karachi,PK712,Sindh,PK7,2,181,9242,0,40,1,58,Pakistan,PK
+Larkana,PK713,Sindh,PK7,457,45664,54416,369,36883,1,123,Pakistan,PK
+Malir Karachi,PK714,Sindh,PK7,14,1384,5702,2,190,2,162,Pakistan,PK
+Matiari,PK715,Sindh,PK7,317,31677,14269,252,25182,0,38,Pakistan,PK
+Mirpur Khas,PK716,Sindh,PK7,92,9224,5954,48,4804,0,13,Pakistan,PK
+Naushahro Feroze,PK717,Sindh,PK7,500,50011,29963,331,33141,1,118,Pakistan,PK
+Sanghar,PK718,Sindh,PK7,227,22687,8942,88,8825,0,23,Pakistan,PK
+Shaheed Benazir Abad,PK719,Sindh,PK7,557,55675,33232,369,36909,1,147,Pakistan,PK
+Shikarpur,PK720,Sindh,PK7,726,72618,42670,622,62167,0,49,Pakistan,PK
+South Karachi,PK721,Sindh,PK7,3,332,26111,0,7,1,140,Pakistan,PK
+Sujawal,PK722,Sindh,PK7,798,79846,11694,290,29016,0,12,Pakistan,PK
+Sukkur,PK723,Sindh,PK7,302,30224,10572,178,17823,1,55,Pakistan,PK
+Tando Allahyar,PK724,Sindh,PK7,62,6242,1065,26,2618,0,3,Pakistan,PK
+Tando Muhammad Khan,PK725,Sindh,PK7,130,13042,7791,56,5564,0,17,Pakistan,PK
+Tharparkar,PK726,Sindh,PK7,7,739,94,2,231,0,2,Pakistan,PK
+Thatta,PK727,Sindh,PK7,381,38122,10483,194,19414,1,77,Pakistan,PK
+Umer Kot,PK728,Sindh,PK7,69,6861,1360,36,3558,0,1,Pakistan,PK
+West Karachi,PK729,Sindh,PK7,3,322,80927,0,34,2,169,Pakistan,PK

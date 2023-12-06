@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/Tko46mp.png" width="1000" style="display:block; margin:auto" />
 
-Jupyter Notebook for SAR flood analysis in Pakistan with Google Earth Engine and Python API
+Jupyter Notebook for SAR flood analysis in Pakistan with Google Earth Engine Python API
 
 In mid-June 2022, Pakistan began experiencing unusually heavy rainfall. Within weeks, the relentless downpours had led to widespread flooding across significant parts of the country. Pakistan's climate is characterized by a distinct monsoon season, with the majority of its annual rainfall, approximately 70-75%, occurring between June and September. However, the intensity of these monsoon rains varies annually, with some years witnessing far higher rainfall than usual.
 
